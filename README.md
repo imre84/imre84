@@ -5,7 +5,7 @@
 
 I'm going to list the communication services I'm using in approximate order of how easy it is to reach me using that service (from the easiest to the least easy)
 - pentek.imre@gmail.com
-- https://www.linkedin.com/in/imre-p%C3%A9ntek-183a8653/
+- https://www.linkedin.com/in/imre-pentek/
 - https://github.com/imre84
 - @imi at Libera.Chat
 
