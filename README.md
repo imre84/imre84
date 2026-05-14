@@ -1,6 +1,6 @@
 # Imre Péntek
 
-Security engineer and consultant based in Budapest. Linux, C/C++, and infrastructure security background.
+Security consultant based in Budapest. Linux, C/C++, and infrastructure security background.
 
 Writing on Linux infrastructure, storage internals, and security at **[pentek.dev](https://pentek.dev)**.
 
